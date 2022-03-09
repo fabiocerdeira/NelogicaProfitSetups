@@ -3,6 +3,7 @@
 # Apresentação:
 
 Fala pessoal, Meu nome é Fabio.
+
 Sou analista/desenvolvedor de sistemas a muito tempo.
 Trabalho com muitas linguagues e tecnologias.
 Mas gosto muito do mercado financeiro.
