@@ -1,0 +1,12 @@
+var
+m1, m2 : Float;
+
+begin
+
+  m1 := Media(20, Close);
+  m2 := Media(40, Close);
+
+  Plot(m1);
+  Plot2(m2);
+
+end;
